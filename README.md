@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArifAhmed120829&theme=tokyonight)
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=ArifXX1&theme=1)
+### My Codeforces Stats
+
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
+
+Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
 ![](https://leetcard.jacoblin.cool/ArifXx1?ext=heatmap)
